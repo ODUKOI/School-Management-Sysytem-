@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147" height="36"><defs><linearGradient id="a" x1="0%" x2="115%" y1="0%" y2="100%"><stop offset="0%" stop-color="#E35C67"/><stop offset="100%" stop-color="#A293FF"/></linearGradient></defs><circle cx="30" cy="18" r="14" fill="url(#a)"/><path d="M30 6q-10 12 0 24 10-12 0-24" fill="none" stroke="#fff" stroke-width="3"/><text x="45" y="15" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="bold" fill="#333">
+    Kampala Heights
+  </text><text x="45" y="27" font-family="Helvetica, Arial, sans-serif" font-size="8" fill="#666">
+    Secondary School
+  </text><text x="45" y="32" font-family="Helvetica, Arial, sans-serif" font-size="6" fill="#999">
+    Excellence in Education
+  </text></svg>
